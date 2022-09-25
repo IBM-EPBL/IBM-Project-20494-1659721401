@@ -1,6 +1,11 @@
 # IBM-Project-20494-1659721401
 
-## AI-powered Nutrition Analyzer for Fitness Enthusiasts
+## _AI-powered Nutrition Analyzer for Fitness Enthusiasts_
+
+### Project Information
+
+> Team Id : PNT2022TMID47319
+> Technology : Data analytics
 
 ### Project Description
 
