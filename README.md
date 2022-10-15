@@ -5,7 +5,7 @@
 ### Project Information
 
 > Team Id : PNT2022TMID47319
-> Technology : Data analytics
+> Technology : Artificial Intelligence
 
 ### Project Description
 
